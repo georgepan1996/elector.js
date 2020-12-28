@@ -1,1 +1,1 @@
-# elector.js
+# electron.js
